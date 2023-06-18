@@ -7,11 +7,3 @@ async function runFirst() {
 }
 
 runFirst()
-
-
-// if fails need to add this in package.json file
-// {
-//     // ...
-//     "type": "module",
-//     // ...
-//   }

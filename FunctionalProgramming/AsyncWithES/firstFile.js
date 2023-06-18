@@ -7,6 +7,6 @@ export class firstClass{
     }
 }
 
-const firstClass = new firstClass();
-export default firstClass;
+const firstClassConst = new firstClass();
+export default firstClassConst;
 
