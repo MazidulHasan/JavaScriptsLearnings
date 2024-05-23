@@ -1,4 +1,4 @@
-let car = {
+const car = {
     name:"Honda",
     model: 200,
     weight:"900KG",
@@ -10,3 +10,7 @@ let car = {
         console.log('Car is driving');
     }
 }
+
+console.log(car.weight);
+console.log(car['model']);
+car.start();
